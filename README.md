@@ -4,11 +4,11 @@
   Lada
 </h1>
 
-*Lada* is a tool designed to recover pixelated adult videos (JAV). It helps restore the visual quality of such content, making it more enjoyable to watch.
+*Lada* is a tool designed to recover pixelated areas in movies/videos (mosaic). It helps restore the visual quality of such content, making it more enjoyable to watch.
 
 ## Features
 
-- **Recover Pixelated Videos**: Restore pixelated or mosaic scenes in adult videos.
+- **Recover Pixelated Videos**: Restore pixelated or mosaic scenes in videos.
 - **Watch/Export Videos**: Use either the CLI or GUI to watch or export your restored videos.
 
 ## Usage
